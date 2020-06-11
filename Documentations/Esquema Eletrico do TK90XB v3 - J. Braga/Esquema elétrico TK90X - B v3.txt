@@ -1,0 +1,8 @@
+ESQUEMA DO TK90X - B V3
+
+Arquivo zipado contendo 9 esquemas em tamanho A4.
+Os esquemas são coloridos e cada um representa um módulo do TK90X.
+Atenção! os desenhos foram feitos com muito critério mas podem conter
+erros;  nesse caso, por favor, avisem-me.
+
+Jorge Braga.
