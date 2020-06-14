@@ -49,9 +49,9 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 
 [PublishSettings]
-OutputFilePath2=Project Outputs for Free Documents\Output.PDF
+OutputFilePath2=C:\Users\Francesco\Dropbox\Projetos\GIT - TK90X\tk90x\Altium Project\Project Outputs for TK90X\TK90X Sch.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Free Documents
+OutputBasePath2=Project Outputs for TK90X
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -76,7 +76,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=
+OutputBasePath3=Project Outputs for TK90X
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -89,7 +89,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for TK90X
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -126,7 +126,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Project Outputs for Free Documents\Output.PDF
+RelativeOutputPath2=C:\Users\Francesco\Dropbox\Projetos\GIT - TK90X\tk90x\Altium Project\Project Outputs for TK90X\TK90X Sch.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
