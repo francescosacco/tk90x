@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=CPU.SchDoc
+Record=TopLevelDocument|FileName=TK90X.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=TK90X.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=ROM.SchDoc|SymbolType=Normal|RawFileName=ROM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=TK90X.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=RAM.SchDoc|SymbolType=Normal|RawFileName=RAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=TK90X.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=CPU.SchDoc|SymbolType=Normal|RawFileName=CPU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
